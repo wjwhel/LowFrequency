@@ -840,7 +840,6 @@ input, select, textarea {
 		text-align: right;
 		visibility: visible;
 		z-index: 10000;
-		right: 0;
 	}
 
 		#main .toggle {
@@ -1101,7 +1100,7 @@ input, select, textarea {
 		top: 0;
 		width: calc(100% - 22.5em);
 		height: 100%;
-		left: 0;
+		right: 0;
 	}
 
 		#viewer .inner {
