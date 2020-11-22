@@ -147,7 +147,7 @@ var main = (function($) { var _ = {
 
 		// Viewer.
 			_.$viewer = $(
-				'<div id="viewer">' +
+				'<div id="viewer" style="background-image: url(images/fulls/bg.jpg);background-position: center;">' +
 					'<div class="inner">' +
 						'<div class="nav-next"></div>' +
 						'<div class="nav-previous"></div>' +
